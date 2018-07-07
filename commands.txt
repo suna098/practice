@@ -1,0 +1,1001 @@
+ 1037  cd /
+ 1038  ls
+ 1039  cd /var/www/html/
+ 1040  ls
+ 1041  cd PHP/
+ 1042  ls
+ 1043  cd cake/
+ 1044  ls
+ 1045  sudo rm -r cake/
+ 1046  ls
+ 1047  cd ../
+ 1048  sudo rm -r cake/
+ 1049  ls
+ 1050  exit
+ 1051  cd workspace/
+ 1052  history
+ 1053  mysql -u root -p
+ 1054  history | grep wget
+ 1055  exit
+ 1056  history 
+ 1057  history | grep wget
+ 1058  history | grep phar
+ 1059  history | grep composer
+ 1060  wget https://getcomposer.org/installer
+ 1061  ls
+ 1062  php installer 
+ 1063  sudo rm installer 
+ 1064  ls
+ 1065  suro rm composer-temp.phar 
+ 1066  sudo rm composer-temp.phar 
+ 1067  wget https://getcomposer.org/installer
+ 1068  ls
+ 1069  history
+ 1070  ls
+ 1071  sudo rm installer 
+ 1072  ls
+ 1073  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1074  ls
+ 1075  php composer-setup.php 
+ 1076  ls
+ 1077  pwd
+ 1078  cd /var/local/bin
+ 1079  cd /usr/local/bin/
+ 1080  cd /home/shogo/
+ 1081  ls
+ 1082  sudo mv composer.phar /usr/local/bin/composer
+ 1083  composer
+ 1084  chmod a+x /usr/local/bin/composer 
+ 1085  composer global require "Laravel/installer=~1.1"
+ 1086  history | grep In
+ 1087  history | grep bash
+ 1088  cd /var/www/html/PHP/
+ 1089  sudo mkdir laravel
+ 1090  cd laravel/
+ 1091  ls
+ 1092  laravel new app
+ 1093  export PATH="~/.config/composer/vendor/bin:$PATH"
+ 1094  laravel new app
+ 1095  sudo laravel new app
+ 1096  laravel new app
+ 1097  yum
+ 1098  pecl
+ 1099  exit
+ 1100  laravel new app
+ 1101  history
+ 1102  export PATH="~/.config/composer/vendor/bin:$PATH"
+ 1103  laravel new app
+ 1104  history | grep find
+ 1105  find ~/ -name "*.bash*"
+ 1106  find ~/ -name "*laravel*"
+ 1107  laravel -v
+ 1108  history | grep laravel
+ 1109  history
+ 1110  find ~/ -name "*laravel*"
+ 1111  laravel new test
+ 1112  sudo yum install php-pear --disablerepo=* --enablerepo=remi,remi-php70
+ 1113  sudo yum install php-pear 
+ 1114  exit
+ 1115  history | grep find
+ 1116  find ~/ -name "*composer.json*"
+ 1117  cd /home/shogo/.config/composer/
+ 1118  sudo vim composer.json 
+ 1119  cd /var/www/html/PHP/
+ 1120  ls
+ 1121  find ~/ -name "*composer.json*"
+ 1122  composer update
+ 1123  cd /home/shogo/.config/composer/
+ 1124  composer update
+ 1125  history | grep goval
+ 1126  history | grep global
+ 1127  composer global require "Laravel/installer"
+ 1128  sudo vim composer.json 
+ 1129  history | grep global
+ 1130  composer global require "Laravel/installer=~1.1"
+ 1131  sudo chmod +x /usr/local/bin/composer 
+ 1132  sudo vim composer.json 
+ 1133  history | grep update
+ 1134  composer update
+ 1135  cd /var/www/html/PHP/
+ 1136  sudo mkdir laravel
+ 1137  cd laravel/
+ 1138  ls
+ 1139  git clone https://github.com/laravel/laravel.git
+ 1140  sudo git clone https://github.com/laravel/laravel.git
+ 1141  sudo composer install
+ 1142  history | grep composer
+ 1143  cd /usr/local/bin/composer 
+ 1144  cd /usr/local/bin/
+ 1145  composer install
+ 1146  history | grep find
+ 1147  find ~/ -name "*composer*"
+ 1148  cd /home/shogo/
+ 1149  composer install
+ 1150  ls
+ 1151  cd .composer/
+ 1152  ls
+ 1153  find ~/ -name "*composer.json*"
+ 1154  /home/shogo/.config/composer/
+ 1155  cd /home/shogo/.config/composer/
+ 1156  composer install
+ 1157  cd /var/www/html/
+ 1158  ls
+ 1159  cd PHP/
+ 1160  ls
+ 1161  cd laravel/
+ 1162  ls
+ 1163  cd laravel/
+ 1164  ls
+ 1165  chown -R www-data.www-data ./
+ 1166  sudo chown -R www-data.www-data ./
+ 1167  chmod -R 755 ./
+ 1168  sudo chmod -R 755 ./
+ 1169  ls
+ 1170  cd app/
+ 1171  ls
+ 1172  cd ./
+ 1173  cd ../
+ 1174  cd public/
+ 1175  ls
+ 1176  cd ../
+ 1177  cd //
+ 1178  cd /var/www/html/PHP/laravel/
+ 1179  sudo chmod -R 755 ./
+ 1180  sudo chown -R www-data.www-data
+ 1181  sudo chown -R www-data.www-data ./
+ 1182  ls
+ 1183  laravel new laravelapp
+ 1184  chmod a+x /usr/local/bin/composer 
+ 1185  history | grep find
+ 1186  find ~/ -name "*comoser.phar*"
+ 1187  history | grep path
+ 1188  history | grep PATH
+ 1189  laravel new app
+ 1190  history 
+ 1191  find ~/ -name "*laravel*"
+ 1192  ls
+ 1193  sudo rm laravel/
+ 1194  sudo rm -r laravel/
+ 1195  ls
+ 1196  find ~/ -name "*laravel*"
+ 1197  cd /home/shogo/.cache/composer/files/
+ 1198  ls
+ 1199  sudo rm -r laravel/
+ 1200  find ~/ -name "*composer.json*"
+ 1201  cd /home/shogo/.config/composer/
+ 1202  sudo vim composer.json 
+ 1203  history | grep update
+ 1204  composer update
+ 1205  history | grep global
+ 1206  composer global require "Laravel/installer"
+ 1207  sudo composer global require "Laravel/installer"
+ 1208  sudo composer global require "Laravel/installer=~2.0"
+ 1209  composer global require "Laravel/installer=~2.0"
+ 1210  composer global require "Laravel/installer=~1.1"
+ 1211  history | grep 755
+ 1212  cd /home/shogo/.composer/cache/repo/https---packagist.org/
+ 1213  history | grep 755
+ 1214  sudo chmod -R 755 ./
+ 1215  composer global require "Laravel/installer=~1.1"
+ 1216  composer update
+ 1217  cd /home/shogo/.composer/
+ 1218  composer update
+ 1219  history | grep find
+ 1220  find ~/ -name "*laravel*"
+ 1221  composer global require "Laravel/installer=~1.1"
+ 1222  history | grep composer
+ 1223  history | grep find
+ 1224  find ~/ -name "*laravel*"
+ 1225  cd /home/shogo/.cache/
+ 1226  sudo rm -r composer/
+ 1227  history | grep update
+ 1228  composer update
+ 1229  find ~/ -name "*laravel*"
+ 1230  sudo apt-get purge --auto-remove composer
+ 1231  find ~/ -name "*composer*"
+ 1232  sudo apt-get purge composer
+ 1233  cd /home/shogo/.local/share/
+ 1234  sudo rm -r composer/
+ 1235  cd /home/shogo/
+ 1236  sudo rm composer-setup.php 
+ 1237  cd ./.config/
+ 1238  sudo rm -r composer/
+ 1239  find ~/ -name "*composer*"
+ 1240  cd ../
+ 1241  pwd
+ 1242  sudo rm -r .composer/
+ 1243  find ~/ -name "*composer*"
+ 1244  find ~/ -name "*laravel*"
+ 1245  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1246  ls
+ 1247  php composer-setup.php 
+ 1248  ls
+ 1249  find ~/ -name "*phar*"
+ 1250  cd /home/shogo/
+ 1251  ls
+ 1252  sudo rm composer-setup.php 
+ 1253  mv composer.phar /usr/local/bin/composer
+ 1254  sudo mv composer.phar /usr/local/bin/composer
+ 1255  composer
+ 1256  composer global require "laravel/installer"
+ 1257  sudo apt-get install php-zip
+ 1258  composer global require "laravel/installer"
+ 1259  laravel -v
+ 1260  cd /var/www/html/PHP/
+ 1261  ls
+ 1262  cd laravel/
+ 1263  ls
+ 1264  laravel new test
+ 1265  sularavel new test
+ 1266  laravel -v
+ 1267  composer --version
+ 1268  composer create-project laravel/laravel ./sample 
+ 1269  chmod 777 ./
+ 1270  sudo chmod 777 ./
+ 1271  composer create-project laravel/laravel ./sample 
+ 1272  history | grep laravel
+ 1273  laravel new test
+ 1274  ls
+ 1275  cd test/
+ 1276  ls
+ 1277  cd public/
+ 1278  ls
+ 1279  pwd
+ 1280  cd ../../
+ 1281  ls
+ 1282  sudo rm -r sample/
+ 1283  history | grep find
+ 1284  find ~/ -name "*httpd.comf*"
+ 1285  find ~/ -name "*httpd*"
+ 1286  ls
+ 1287  composer create-project laravel/laravel test --prefer-dist
+ 1288  composer create-project laravel/laravel test1 --prefer-dist
+ 1289  ls
+ 1290  yum install --enablerepo=remi,remi-php70 php php-devel php-mbstring php-pdo php-gd
+ 1291  exit
+ 1292  cd /var/www/html/PHP/
+ 1293  ls
+ 1294  cd laravel/
+ 1295  ls
+ 1296  systemctl stop firewalld
+ 1297  sudo systemctl stop firewalld
+ 1298  ipconfig
+ 1299  ifconfig
+ 1300  ls
+ 1301  cd test1
+ 1302  php aritisan serve
+ 1303  cd ../
+ 1304  php aritisan serve
+ 1305  sudo php aritisan serve
+ 1306  cd test
+ 1307  sudo php aritisan serve
+ 1308  php aritisan serve
+ 1309  php artisan serve --host=127.0.0.1
+ 1310  cd /home/
+ 1311  ls
+ 1312  cat ~/.bashrc
+ 1313  sudo vim  ~/.bashrc
+ 1314  php artisan serve
+ 1315  cd /var/www/html/PHP/laravel/
+ 1316  ls
+ 1317  cd test
+ 1318  ls
+ 1319  cd public/
+ 1320  sudo vim index.php 
+ 1321  history | grep find
+ 1322  find ~/ -name "*httpd*"
+ 1323  find ~/ -name "*conf*"
+ 1324  find ~/ -name "*documnt*"
+ 1325  find ~/ -name "**"
+ 1326  cd ./
+ 1327  cd ../
+ 1328  sudo chown -R apache:shogo /var/www/html/PHP/laravel/
+ 1329  sudo chown -R shogo /var/www/html/PHP/laravel/
+ 1330  sudo chmod -R 775 /var/www/html/PHP/laravel/test/storage/
+ 1331  sudo chmod -R 775 /var/www/html/PHP/laravel/test/bootstrap/cache/
+ 1332  HTTP 500
+ 1333  cd /usr/local/
+ 1334  ls
+ 1335  cd etc/
+ 1336  ls
+ 1337  cd /home/
+ 1338  ls
+ 1339  cd /etc/
+ 1340  ls
+ 1341  cd //
+ 1342  ls
+ 1343  cd /var/www/html/
+ 1344  ls
+ 1345  cd PHP/
+ 1346  ls
+ 1347  ps aux | grep httpd
+ 1348  chcon -R -t httpd_sys_rw_content_t  /var/www/html/PHP/laravel/test/storage/
+ 1349  semessage -R -t httpd_sys_rw_content_t  /var/www/html/PHP/laravel/test/storage/
+ 1350  history | grep PATH
+ 1351  ls
+ 1352  cd laravel/
+ 1353  ls
+ 1354  composer create-project laravel/laravel laravelapp --prefer-dist
+ 1355  :q
+ 1356  ls
+ 1357  laravel new newtest
+ 1358  export PATH=~/.composer/vender/bin:$PATH
+ 1359  laravel new newtest
+ 1360  laravel --version
+ 1361  history | grep laravel
+ 1362  laravel -v
+ 1363  exit
+ 1364  laravel -v
+ 1365  history | grep find
+ 1366  find ~/ -name "*laravel*"
+ 1367  laravel -v
+ 1368  exit
+ 1369  history | grep bash
+ 1370  sudo vim  ~/.bashrc
+ 1371  cd /.config/composer/vendor/
+ 1372  /.config/
+ 1373  history | grep find
+ 1374  find ~/ -name "*.config*"
+ 1375  cd /home/shogo/.config/
+ 1376  ls
+ 1377  cd composer/vendor/
+ 1378  cd bin/
+ 1379  ls
+ 1380  laravel new test
+ 1381  ./laravel new test
+ 1382  ls
+ 1383  sudo rm test/
+ 1384  sudo rm  -r test/
+ 1385  cd /etc/apache2/sites-available/
+ 1386  ls
+ 1387  vim 000-default.conf 
+ 1388  exit
+ 1389  p
+ 1390  cd /var/www/html/PHP/
+ 1391  ls
+ 1392  cd mysql/
+ 1393  ls
+ 1394  cd ../
+ 1395  ls
+ 1396  history | grep php
+ 1397  exit
+ 1398  cd /var/www/html/]
+ 1399  cd /var/www/html/
+ 1400  cd PHP/
+ 1401  ls
+ 1402  history | grpe php
+ 1403  history | grep php
+ 1404  ls
+ 1405  sudo apt update;
+ 1406  history | grep php
+ 1407  ls
+ 1408  cd practice/
+ 1409  ls
+ 1410  cd ../
+ 1411  cd data_input/
+ 1412  ls
+ 1413  pwd
+ 1414  ls
+ 1415  sudo vim confirm.php 
+ 1416  grep ./ 'a'
+ 1417  grep setName ./
+ 1418  grep setname
+ 1419  grep setName
+ 1420  grep 'setName' ./
+ 1421  grep 'setName' -rl ./
+ 1422  grep 'Name' -rl ./
+ 1423  grep 'set' -rl ./
+ 1424  cd ../
+ 1425  grep 'setName' -rl ./
+ 1426  sudo grep 'setName' -rl ./
+ 1427  cd data_input/
+ 1428  ls
+ 1429  sudo vim list.php 
+ 1430  sudo vim update.php 
+ 1431  cd ../
+ 1432  ls
+ 1433  cd confirm/
+ 1434  ls
+ 1435  sudo vim confirm.php 
+ 1436  vim view.php 
+ 1437  cd ../
+ 1438  ls
+ 1439  cd func2/
+ 1440  ls
+ 1441  cd ../
+ 1442  cd product/
+ 1443  ls
+ 1444  cd ../
+ 1445  cd subclass/
+ 1446  ls
+ 1447  cd ../
+ 1448  cd post/
+ 1449  ls
+ 1450  cd ./
+ 1451  grep 'member' ./
+ 1452  history | grep grep
+ 1453  :q
+ 1454  cd ../
+ 1455  ls
+ 1456  grep Member ./*
+ 1457  grep Member ./array/*
+ 1458  grep member ./array/*
+ 1459  grep member ./*
+ 1460  ls
+ 1461  cd func
+ 1462  ls
+ 1463  cd ../
+ 1464  ls
+ 1465  cd newclass/ls
+ 1466  cd newclass/
+ 1467  ls
+ 1468  ce ../
+ 1469  ls
+ 1470  cd ../
+ 1471  ls
+ 1472  cd data_input/
+ 1473  los
+ 1474  ls
+ 1475  exit
+ 1476  ls
+ 1477  cd workspace/
+ 1478  ls
+ 1479  cd ../
+ 1480  ls
+ 1481  composer
+ 1482  laravel --version
+ 1483  laravel -v
+ 1484  $HOME/.config/composer/vendor/bin
+ 1485  export $HOME/.config/composer/vendor/bin
+ 1486  export $HOME /.config/composer/vendor/bin
+ 1487  export PATH=$PATH:$HOME/.composer/vendor/bin
+ 1488  laravel -v
+ 1489  laravel 
+ 1490  history | grep .bash
+ 1491  history | grep find
+ 1492  find ~/ -name "*..bash*"
+ 1493  find ~/ -name "*.bash*"
+ 1494  sudo vim /home/shogo/.bashrc 
+ 1495  laravel
+ 1496  laravel -v
+ 1497  source .bashrc
+ 1498  laravel -v
+ 1499  source .bashrc 
+ 1500  ls
+ 1501  source .bashrc 
+ 1502  sudo vim .bashrc 
+ 1503  source .bashrc 
+ 1504  laravel -v
+ 1505  composer
+ 1506  cd /var/www/html/PHP/
+ 1507  ls
+ 1508  cd ../
+ 1509  ls
+ 1510  laravel new sunagawa
+ 1511  laravel
+ 1512  ls
+ 1513  laravel -v
+ 1514  cd ../
+ 1515  cd ..//
+ 1516  laravel
+ 1517  history | grep .bash
+ 1518  history | grep HOME
+ 1519  sudo vim /home/shogo/.bashrc
+ 1520  history | grep source
+ 1521  source .bashrc
+ 1522  cd home/shogo/
+ 1523  source .bashrc
+ 1524  laravel
+ 1525  cd /var/www/html/
+ 1526  laravel
+ 1527  source .bashrc
+ 1528  source /home/shogo/.bashrc 
+ 1529  laravel
+ 1530  cd /home/shogo/
+ 1531  ls
+ 1532  source .bashrc
+ 1533  laravel
+ 1534  ls 
+ 1535  cd /var/www/html/
+ 1536  source /home/shogo/.bashrc
+ 1537  laravel -v
+ 1538  sudo vim /home/shogo/.bashrc 
+ 1539  cd /home/
+ 1540  cd shogo/
+ 1541  ls
+ 1542  history | grep find
+ 1543  find ~/ -name "*.composer*"
+ 1544  find ~/ -name "*vender*"
+ 1545  find ~/ -name "*composer*"
+ 1546  sudo vim /home/shogo/.bashrc 
+ 1547  cd /home/shogo/.config/composer/vendor/
+ 1548  cd /var/www/html/
+ 1549  ls
+ 1550  source /home/shogo/.bashrc
+ 1551  laravel
+ 1552  laravel new test
+ 1553  laravel
+ 1554  ls
+ 1555  cd PHP/
+ 1556  laravel new test
+ 1557  composer create-project laravel/laravel test --prefer-dist
+ 1558  chmod 755 ./
+ 1559  sudo chmod 755 ./
+ 1560  composer create-project laravel/laravel test --prefer-dist
+ 1561  sudo chmod 777 ./
+ 1562  composer create-project laravel/laravel test --prefer-dist
+ 1563  ls
+ 1564  cd test/
+ 1565  ls
+ 1566  php artisan serve
+ 1567  sudo php artisan serve
+ 1568  sudo vim /var/www/html/PHP/test/vendor/autoload.php
+ 1569  php artisan serve
+ 1570  composer update
+ 1571  php artisan serve
+ 1572  sudo apt-get install php-xml
+ 1573  php artisan serve
+ 1574  composer update
+ 1575  php artisan serve
+ 1576  composer install
+ 1577  exit
+ 1578  composer update --prefer-source
+ 1579  history | grep parge
+ 1580  history | grep perge
+ 1581  history | grep purge
+ 1582  sudo apt-get purge --auto-remove composer
+ 1583  history | grep composer
+ 1584  cd /home/shogo/
+ 1585  cd .composer
+ 1586  history | grep find
+ 1587  find ~/ -name "*composer*"
+ 1588  cd .cache/
+ 1589  sudo rm  -r composer/
+ 1590  find ~/ -name "*composer*"
+ 1591  cd /home/shogo/.config/
+ 1592  cd /composer/
+ 1593  find ~/ -name "*composer*"
+ 1594  cd /composer
+ 1595  cd ../
+ 1596  ls
+ 1597  cd .config/
+ 1598  ls
+ 1599  sudo rm -r composer/
+ 1600  ls
+ 1601  find ~/ -name "*composer*"
+ 1602  cd ../
+ 1603  cd .local/share/
+ 1604  cd composer/
+ 1605  ls
+ 1606  cd ../
+ 1607  sudo rm -r composer/
+ 1608  ls
+ 1609  find ~/ -name "*composer*"
+ 1610  history | grep purge
+ 1611  sudo apt-get purge --auto-remove composer
+ 1612  sudo apt-get purge composer
+ 1613  find ~/ -name "*composer*"
+ 1614  find ~/ -name "*phar*"
+ 1615  cd ../../
+ 1616  find ~/ -name "*composer*"
+ 1617  find ~/ -name "*laravel*"
+ 1618  laravel
+ 1619  find ~/ -name "*laravel*"
+ 1620  history | grep bashrc
+ 1621  sudo vim /home/shogo/.bashrc
+ 1622  sudo apt-get install composer
+ 1623  composer
+ 1624  find ~/ -name "*composer*"
+ 1625  cd /home/shogo/.config/
+ 1626  ls
+ 1627  cd composer/
+ 1628  ls
+ 1629  cd ../
+ 1630  cd /home/shogo/.local/share/
+ 1631  ls
+ 1632  cd composer/
+ 1633  ls
+ 1634  cd /home/shogo/.cache/composer/
+ 1635  ls
+ 1636  cd ../
+ 1637  ls
+ 1638  composer
+ 1639  composer global require "laravel/installer"
+ 1640  cd /home/shogo/.config/
+ 1641  ls
+ 1642  cd composer/
+ 1643  ls
+ 1644  pwd
+ 1645  history | grep bashrc
+ 1646  sudo vim /home/shogo/.bashrc 
+ 1647  source /home/shogo/.bashrc 
+ 1648  laravel
+ 1649  cd ../../
+ 1650  laravel
+ 1651  cd /var/www/html/
+ 1652  laravel
+ 1653  laravel new one
+ 1654  history | grep find
+ 1655  find ~/ -name "*storage*"
+ 1656  find ~/ -name "*laravel*"
+ 1657  find ~/ -name "*storage*"
+ 1658  find ~/ -name "*bootstrap*"
+ 1659  sudo shmod -R 770 home/shogo/.config/composer/*
+ 1660  sudo chmod -R 770 home/shogo/.config/composer/*
+ 1661  sudo chmod -R 770 home/shogo/.config/composer/
+ 1662  sudo chmod -R 770 /home/shogo/.config/composer/
+ 1663  sudo chmod -R 770 /home/shogo/.config/composer/*
+ 1664  laravel new one
+ 1665  find ~/ -name "*bootstrap*"
+ 1666  sudo shmod -R 775 home/shogo/.config/composer/*
+ 1667  sudo chmod -R 775 home/shogo/.config/composer/*
+ 1668  sudo chmod -R 775 /home/shogo/.config/composer/*
+ 1669  laravel new one
+ 1670  ls
+ 1671  cd PHP/
+ 1672  ls
+ 1673  laravel new one
+ 1674  cd one/
+ 1675  ls
+ 1676  cd public/
+ 1677  ls
+ 1678  laravel new one
+ 1679  composer update
+ 1680  history | grep find
+ 1681  cd /home/shogo/.config/
+ 1682  ls
+ 1683  cd composer/
+ 1684  ls
+ 1685  composer update
+ 1686  cd /var/www/html/
+ 1687  la
+ 1688  cd PHP/
+ 1689  ls
+ 1690  cd ../
+ 1691  laravel new app
+ 1692  cd ../
+ 1693  laravel new app
+ 1694  cd /usr/local/bin/
+ 1695  ls
+ 1696  sudo chmod +x composer 
+ 1697  composer update
+ 1698  cd /home/
+ 1699  ls
+ 1700  cd shogo/
+ 1701  ls
+ 1702  sudo mkdir laravel 
+ 1703  cd laravel/
+ 1704  laravel new testapp
+ 1705  cd ../
+ 1706  ls
+ 1707  cd /var/www/html/PHP/
+ 1708  ls
+ 1709  sudo mkdir laravel
+ 1710  sudo mkdir laravel1
+ 1711  cd laravel1/
+ 1712  laravel new testapp
+ 1713  cd ../
+ 1714  ls
+ 1715  cd laravel
+ 1716  laravel new test11
+ 1717  ls
+ 1718  cd ../
+ 1719  history | grep laravel
+ 1720  cd laravel
+ 1721  ls
+ 1722  cd ../
+ 1723  ls
+ 1724  laravel new test11
+ 1725  ls
+ 1726  cd test11/
+ 1727  ls
+ 1728  cd public/
+ 1729  ls
+ 1730  sudo cp -r css ../
+ 1731  cd ../
+ 1732  cd css/
+ 1733  ls
+ 1734  cd ..
+ 1735  ls
+ 1736  sudo cp -r public/ public2/
+ 1737  cd public
+ 1738  ls
+ 1739  sudo cp  -r js ../
+ 1740  sudo cp index.php ../
+ 1741  sudo cp favicon.ico ../
+ 1742  sudo cp robots.txt ../
+ 1743  cd ../
+ 1744  sudo rm index.php 
+ 1745  cd public
+ 1746  ls
+ 1747  ls ll
+ 1748  ll
+ 1749  chmod 755 index.php 
+ 1750  ll
+ 1751  chmod 800 index.php 
+ 1752  chmod 777 index.php 
+ 1753  ll
+ 1754  sudo chmod 755 index.php 
+ 1755  cd ../
+ 1756  sudo chmod -r  755 public/ 
+ 1757  ls
+ 1758  cd public
+ 1759  cd ../
+ 1760  ls
+ 1761  sudo chmod 755 -r public/
+ 1762  sudo chmod 755 -r public
+ 1763  sudo chmod 755 public 
+ 1764  cd ../
+ 1765  sudo chmod 755 test11/
+ 1766  cd test
+ 1767  cd ../
+ 1768  ls
+ 1769  cd test11/
+ 1770  ls
+ 1771  cd public
+ 1772  ls
+ 1773  sudo vim index.php 
+ 1774  history | grep artisan
+ 1775  cd ../
+ 1776  php artisan serve
+ 1777  ls
+ 1778  php artisan serve
+ 1779  ls
+ 1780  ls | grep vender
+ 1781  find ~/ -name 'vender'
+ 1782  comoser require vender
+ 1783  composer require vender
+ 1784  laravel -v
+ 1785  ls
+ 1786  cd routes/
+ 1787  ls
+ 1788  cd ../
+ 1789  ls
+ 1790  ls | grep route
+ 1791  cd app/
+ 1792  ls
+ 1793  cd ../
+ 1794  cd routes/
+ 1795  vim web.php 
+ 1796  cd /home/shogo/.config/
+ 1797  ls
+ 1798  cd composer/
+ 1799  ls
+ 1800  composer update
+ 1801  vim composer.json 
+ 1802  composer update
+ 1803  history | grep laravel
+ 1804  composer global require "laravel/installer=~1.1"
+ 1805  cd /var/www/html/
+ 1806  laravel 
+ 1807  laravel new suna
+ 1808  ls
+ 1809  cd PHP/
+ 1810  ls
+ 1811  laravel new suna
+ 1812  cd suna/
+ 1813  ls
+ 1814  php artisan serve
+ 1815  sudo laravel new suna
+ 1816  laravel
+ 1817  cd ../
+ 1818  sudo rm -r suna
+ 1819  cd ../
+ 1820  sudo chmod 755 PHP/
+ 1821  ll
+ 1822  cd PHP/
+ 1823  ls
+ 1824  laravel new suna
+ 1825  ls
+ 1826  cd laravel
+ 1827  ls
+ 1828  cd laravelapp/
+ 1829  ls
+ 1830  php artisan serve
+ 1831  cd ../../
+ 1832  ls
+ 1833  composer create-project --prefer-dist laravel/laravel shogo
+ 1834  cd laravel
+ 1835  composer create-project --prefer-dist laravel/laravel shogo
+ 1836  ls
+ 1837  cd shogo/
+ 1838  php artisan serve
+ 1839  cd ../shogo/
+ 1840  ls
+ 1841  php artisan 
+ 1842  exit
+ 1843  cal 6
+ 1844  cal 2018
+ 1845  cal 2005
+ 1846  cal 2018
+ 1847  exity
+ 1848  exit
+ 1849  git
+ 1850  cd /var/www/html/PHP/
+ 1851  ls
+ 1852  mysql -u root -p
+ 1853  exit
+ 1854  mysql -u root -p
+ 1855  exit
+ 1856  cd /var/www/html/PHP/
+ 1857  ls
+ 1858  composer create-project --prefer-dist cakephp/app cake1
+ 1859  cd ../
+ 1860  ls
+ 1861  composer create-project --prefer-dist cakephp/app 
+ 1862  sudo chmod 777 ./
+ 1863  composer create-project --prefer-dist cakephp/app 
+ 1864  ls
+ 1865  composer create-project --prefer-dist cakephp/app cake2
+ 1866  ls
+ 1867  cd cake2/
+ 1868  cake2
+ 1869  ls
+ 1870  cd ../../
+ 1871  ls
+ 1872  cd html/
+ 1873  ls
+ 1874  history | grep laravel
+ 1875  composer create-project --prefer-dist laravel/laravel shogo
+ 1876  composer create-project --prefer-dist laravel/laravel: shogo
+ 1877  composer create-project --prefer-dist cakephp/app:1.6.* cake3
+ 1878  composer create-project --prefer-dist cakephp/app:3.1.* cake3
+ 1879  :q
+ 1880  cd PHP/
+ 1881  ls
+ 1882  cd data_input/
+ 1883  ls
+ 1884  sudo vim view1.php 
+ 1885  exit
+ 1886  cd /var/www/html/
+ 1887  cd JAVASCRIPT/
+ 1888  ls
+ 1889  cd practice/
+ 1890  ls
+ 1891  cd func/
+ 1892  ls
+ 1893  node scope.js 
+ 1894  ls
+ 1895  node reference2.js 
+ 1896  sudo vim block.js
+ 1897  node block.js 
+ 1898  sudo vim block.js 
+ 1899  node block.js 
+ 1900  sudo vim block.js 
+ 1901  sudo vim let.js
+ 1902  node let.js 
+ 1903  sudo vim args_check.js
+ 1904  node args_check.js 
+ 1905  sudo vim args_check.js
+ 1906  node args_check.js 
+ 1907  :w
+ 1908  sudo vim args_check.js
+ 1909  node args_check.js 
+ 1910  sudo vim args_check.js
+ 1911  node args_check.js 
+ 1912  sudo vim args_check.js
+ 1913  node args_check.js 
+ 1914  :q
+ 1915  sudo vim args_check.js
+ 1916  node args_check.js 
+ 1917  sudo vim args_check.js
+ 1918  node args_check.js 
+ 1919  sudo vim args_check.js
+ 1920  node args_check.js 
+ 1921  sudo vim args_check.js
+ 1922  node args_check.js 
+ 1923  sudo vim args_check.js
+ 1924  node args_check.js 
+ 1925  sudo vim default_args.js
+ 1926  node default_args.js
+ 1927  sudo vim default_args.js
+ 1928  sudo vim variable_args.js
+ 1929  node variable_args.js
+ 1930  sudo vim variable_args.js
+ 1931  node variable_args.js
+ 1932  sudo vim variable_args.js
+ 1933  node variable_args.js
+ 1934  sudo vim variable_args.js
+ 1935  node variable_args.js
+ 1936  sudo vim variable_args.js
+ 1937  node variable_args.js
+ 1938  :q
+ 1939  sudo vim variable_args.js
+ 1940  sudo vim variable_args2.js
+ 1941  sudo cp variable_args.js variable_args2.js
+ 1942  sudo vim variable_args2.js 
+ 1943  node variable_args2.js 
+ 1944  sudo vim variable_args2.js 
+ 1945  node variable_args2.js 
+ 1946  sudo vim variable_args2.js 
+ 1947  node variable_args2.js 
+ 1948  sudo vim variable_args2.js 
+ 1949  node variable_args2.js 
+ 1950  sudo vim variable_args2.js 
+ 1951  cd ../../../
+ 1952  ls
+ 1953  cd PHP/
+ 1954  ls
+ 1955  cd confirm/
+ 1956  ls
+ 1957  sudo vim view.php 
+ 1958  ls
+ 1959  vim form.html 
+ 1960  vim confirm.php 
+ 1961  cd ../
+ 1962  ls
+ 1963  cd practice/
+ 1964  ls
+ 1965  vi form.html 
+ 1966  vim view.php 
+ 1967  cd ../
+ 1968  ls
+ 1969  cd data_input/
+ 1970  ls
+ 1971  vim confirm.php 
+ 1972  vim view.php 
+ 1973  vim confirm.php 
+ 1974  vim view.php 
+ 1975  ls
+ 1976  sudo vim data_input.php 
+ 1977  vim view.php 
+ 1978  sudo vim view.php 
+ 1979  exit
+ 1980  cd /var/www/html/PHP/
+ 1981  ls
+ 1982  cd data_input/
+ 1983  ls
+ 1984  sudo rm ] 
+ 1985  sudo vim view.php 
+ 1986  cd ../../
+ 1987  cd HTML/
+ 1988  ls
+ 1989  cd layout1/
+ 1990  vim style.css 
+ 1991  exit
+ 1992  cd /var/www/html/
+ 1993  ls
+ 1994  cd HTML/
+ 1995  ls
+ 1996  cd layout1/
+ 1997  ls
+ 1998  vim index.html 
+ 1999  exit
+ 2000  cd /var/www/html/PHP/
+ 2001  ls
+ 2002  history | grep git
+ 2003  cd ../
+ 2004  ls
+ 2005  sudo mkdir github
+ 2006  cd github/
+ 2007  sudo git clone https://github.com/suna098/samplecodes
+ 2008  ls
+ 2009  cd samplecodes/
+ 2010  ls
+ 2011  sudo vim test.txt
+ 2012  sudo git add test.txt
+ 2013  sudo git push 
+ 2014  sudo git commit 
+ 2015  git commit -f 'testcommit'
+ 2016  :q
+ 2017  git commit -r 'testcommit'
+ 2018  git commit  'testcommit'
+ 2019  git commit -m "test"
+ 2020  sudo git commit -m "test"
+ 2021  sudo git push 
+ 2022  cd ../
+ 2023  ls
+ 2024  sudo cp -r HTML/ github/samplecodes/.
+ 2025  sudo cp -r PHP/ github/samplecodes/.
+ 2026  sudo cp -r JAVASCRIPT/ github/samplecodes/.
+ 2027  cd github/
+ 2028  ls
+ 2029  cd samplecodes/
+ 2030  ls
+ 2031  sudo git add ./
+ 2032  sudo commit -m 'allcommit'
+ 2033  sudo git commit -m 'allcommit'
+ 2034  sudo git push 
+ 2035  ls
+ 2036  history
+
