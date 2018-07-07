@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+</head>
+<body>
+<script type="text/javascript">
+var x = 1;
+var y = x;
+console.log(y);
+
+var data1 = [0, 1, 2];
+var data2 = data1;
+var data3 = {x:'first', y:'second', z:'third'};
+data1[0] = 5;
+console.log(data2);
+console.log(data2[2]);
+console.log(data1[0]);
+console.log(data3['y']);
+
+</script>		
+</body>
+
+</html>

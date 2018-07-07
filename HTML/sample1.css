@@ -1,0 +1,95 @@
+body {margin:0;
+     font-family: 'Source Sans Pro', 'メイリオ',
+     'Hiragino Kaku Githic Pro', sans-serif ;
+     }
+    
+.site {background-color:#444444;
+	padding:10px;
+	text-align: center}
+
+.site a {color: #ffffff;
+	 font-size:20px;
+	 font-family: 'Paytone One', sans-serif;
+	 text-decoration: none}
+
+/* ナビゲーションメニュー */
+
+.menu {padding: 40px 0;
+       background-color: #f0f0e9
+      
+      }  
+
+.menu ul{margin:0;
+	 padding: 0;
+	 list-style: none}
+
+.menu li a { display: block;
+	     margin-bottom: 15px;
+	     padding: 15px;
+	     background-color:#770000;
+	     color: #ffffff;
+	     font-size: 14px;
+	     text-decoration: none}
+.menu li a:hover {background-color #662222}
+
+/*記事*/
+
+.kiji  {
+	padding:40px;
+       }
+
+.kiji h1 {
+	margin-top:0;
+	margin-bottom: 20px;
+	font-size: 36px;
+	}
+
+.kiji h1 span{display: block;
+	      margin-bottom:20px;
+	      color:#930000;
+	      font-size:20px;
+	      font-weight:bold
+	
+        }
+
+.kiji p {margin-top: 0;
+	 margin-bottom: 20px;
+	 line-height:2;
+	 text-align: justify
+	
+	}
+
+.kijiinfo {margin-bottom:20px;
+	   color: #666666;
+	 
+        }
+
+
+.kiji img {max-width: 100%;
+          height: auto}
+.kanren {padding:40px 20px;
+	 background-color: #f0f0e9
+ }
+
+.kanren ul  {margin:0;
+	     padding:0;
+	     list-style: none;		
+	    }
+
+.kanren li a {display: block;
+	      padding: 5px;
+      	      color: #000000;
+	      font-size:14px;
+	      text-decoration:none}
+.kanren img {max-width: 100%;
+	     height:auto;}
+
+.copyright p {background-color: #444444;
+	      padding: 10px;
+	      text-align: center;
+	      color: #ffffff;
+	      margin: 0;
+	      font-size:14px}
+
+.kanren li a:hover {background-color: #eeeeee}	     
+

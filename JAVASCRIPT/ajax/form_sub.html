@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+</head>
+<body>
+	<button id="send" href="#">ajax</button>
+<script src="../jquery/jquery-3.3.1.min.js">
+</script>
+
+
+
+<form id='input_data'>
+	<table border="3px">
+		<tr><td>名前</td><td><input method="post" type="text" name="name" size="30" maxlength="20"></td></tr>
+		<tr><td>生年月日</td><td><input method="post" type="text" name="birth" size="30" maxlength="20"></td></tr>
+		<tr><td>商品名</td><td><input method="post" type="text" name="product" size="30" maxlength="20"></td></tr>
+		<tr><td>課金額</td><td><input method="post" type="text" name="amount" size="30" maxlength="20"></td></tr>
+
+	</table>
+</form>
+
+<script type="text/javascript">
+
+
+$(document).ready(function() {
+	$("#send").click(function(){
+	var form = $("#input_data").serializeArray(); 
+      $.ajax({
+	  type:"POST",
+	  url:"test.php",
+	  data:$("#input_data").serializeArray(),
+	  success: function(data){
+	   
+	   window.location.href = './test.php';
+		  // alert("success!");
+		  alert(data);
+		 // console.log();
+	  }
+
+	});
+
+
+//    alert('click!!');
+   });
+});
+
+
+
+
+</script>		
+</body>
+
+</html>

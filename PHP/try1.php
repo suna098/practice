@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+<body>
+<?php
+require_once 'Division.php';
+
+try {
+  print Division::divider(1,2 ) . '<br>';
+  print Division::divider(1, 0) . '<br>';
+  print Division::divider(2, 1) . '<br>';
+
+
+  } catch (Exception $e){
+    print $e->getMessage();
+ 
+  }
+
+?>
+</body>
+
+</html>
